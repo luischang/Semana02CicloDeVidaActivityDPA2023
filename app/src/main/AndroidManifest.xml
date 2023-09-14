@@ -15,6 +15,16 @@
         <activity
             android:name=".PorterosActivity"
             android:exported="false" />
+       <activity
+            android:name=".TaipeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ChangActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AscurraActivity"
+
+            android:exported="false" />
         <activity
             android:name=".GeneralActivity"
             android:exported="false" />
