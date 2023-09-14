@@ -16,6 +16,9 @@
             android:name=".TaipeActivity"
             android:exported="false" />
         <activity
+            android:name=".ChangActivity"
+            android:exported="false" />
+        <activity
             android:name=".GeneralActivity"
             android:exported="false" />
         <activity
