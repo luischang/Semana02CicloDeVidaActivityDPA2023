@@ -19,6 +19,9 @@
             android:name=".ChangActivity"
             android:exported="false" />
         <activity
+            android:name=".AscurraActivity"
+            android:exported="false" />
+        <activity
             android:name=".GeneralActivity"
             android:exported="false" />
         <activity
